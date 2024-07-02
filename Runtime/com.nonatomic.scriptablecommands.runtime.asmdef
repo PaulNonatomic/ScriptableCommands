@@ -1,0 +1,20 @@
+{
+    "name": "com.nonatomic.scriptablecommands.runtime",
+    "rootNamespace": "Nonatomic.ScriptableCommands",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.nonatomic.scriptablecommands",
+            "expression": "",
+            "define": "SCRIPTABLE_COMMANDS"
+        }
+    ],
+    "noEngineReferences": false
+}

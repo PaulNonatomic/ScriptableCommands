@@ -1,0 +1,18 @@
+{
+  "name": "com.nonatomic.scriptablecommands.editor",
+  "rootNamespace": "Nonatomic.ScriptableCommands",
+  "references": [
+    "com.nonatomic.scriptablecommands.runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
