@@ -1,6 +1,6 @@
 ﻿{
   "name": "com.nonatomic.scriptablecommands",
-  "version": "0.0.0-beta",
+  "version": "0.0.1-beta",
   "displayName": "Scriptable Commands",
   "description": "Scriptable Commands",
   "unity": "2022.3",
