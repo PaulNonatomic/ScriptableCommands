@@ -4,9 +4,18 @@
 
 Scriptable Commands is a Unity package designed to wrap the command pattern in Scriptable Object assets.
 
-## Installation ##
+## Installation
 
-To install Scriptable Commands in your Unity project, add the package from the git URL: https://github.com/PaulNonatomic/ScriptableCommands.git using the Unity package manager.
+Add **Scriptable Commands** to your Unity project via Package Manager:
+
+1. Open **Window > Package Manager**
+2. Click **+** > **Add package from git URL**
+3. Enter:
+```
+https://www.pkglnk.dev/scriptablecommands.git
+```
+
+[![pkglnk](https://www.pkglnk.dev/card/scriptablecommands.svg)](https://www.pkglnk.dev/pkg/scriptablecommands)
 
 ## Support
 If you like my work then please consider showing your support by buying me a brew
